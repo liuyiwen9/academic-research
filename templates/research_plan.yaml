@@ -1,1 +1,69 @@
+project:
+  name: ""
+  created_at: ""
+  status: IDEA
 
+research_question:
+  primary: ""
+  secondary: []
+
+research_scope:
+  country: ""
+  region: ""
+  industry: ""
+  population: ""
+  unit_of_analysis: ""
+  start_year: null
+  end_year: null
+
+theory:
+  theoretical_framework: []
+  mechanisms: []
+
+hypotheses: []
+
+variables:
+  independent:
+    - name: ""
+      definition: ""
+      candidate_sources: []
+
+  dependent:
+    - name: ""
+      definition: ""
+      candidate_sources: []
+
+  controls: []
+
+data:
+  required_datasets: []
+  preferred_sources: []
+  alternative_sources: []
+
+methodology:
+  candidate_methods: []
+  identification_strategy: ""
+  endogeneity_concerns: []
+  robustness_tests: []
+
+literature:
+  keywords:
+    chinese: []
+    english: []
+
+  databases: []
+
+research_gap:
+  potential_gaps: []
+
+contribution:
+  theoretical: ""
+  methodological: ""
+  empirical: ""
+  practical: ""
+
+risks:
+  - ""
+
+next_actions:
+  - ""
