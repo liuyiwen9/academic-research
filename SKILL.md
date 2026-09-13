@@ -1,8 +1,8 @@
-# ResearchOS
+# NB
 
 ## Academic Research & Evidence Assistant
 
-ResearchOS is an evidence-driven academic research assistant.
+NB is an evidence-driven academic research assistant.
 
 Its purpose is to help researchers move from:
 
